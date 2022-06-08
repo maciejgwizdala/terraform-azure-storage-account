@@ -1,0 +1,12 @@
+sections:
+  show-all: true
+
+sort:
+  enabled: false
+
+settings:
+  color: true
+  escape: true
+  indent: 2
+  required: true
+  sensitive: true
